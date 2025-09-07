@@ -1,6 +1,6 @@
 # WebTris
 
-> ⚠️ **Note:** This project is designed for a **mobile screen resolution**. Desktop screens may display stretched or misaligned elements.  
+> ⚠️ **Note:** This project is currently a WIP! 
 > ⚠️ **WebGL Limitations:** The WebGL demo may have missing sounds or other features due to WebGL build constraints. For full functionality, open the project in Unity.
 
 This is a Unity project for a **Tetris-style block game**. The framework allows you to spawn tetromino pieces, move and rotate them, and place them on a board. It’s fully customizable, making it easy to experiment with Tetris mechanics in Unity.  
@@ -8,16 +8,6 @@ This is a Unity project for a **Tetris-style block game**. The framework allows 
 **Basic functionality exists**, but **SRS Rotation, Piece Hold, and other advanced systems are currently WIP**.  
 
 **If used please credit my GitHub at [Github.com/Murugan47](https://github.com/murugan47)**
-
----
-
-## Features
-
-- Mobile-optimized gameplay for touch screens.  
-- Spawn, move, and drop **tetromino pieces**.  
-- Basic line clearing and board management.  
-- Score tracking for completed lines.  
-- Modular framework for experimenting with Tetris mechanics.  
 
 ---
 
