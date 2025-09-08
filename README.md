@@ -27,7 +27,7 @@ This is a Unity project for a **Tetris-style block game**. The framework allows 
 
 ## Demo
 
-[![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)](https://murugan47.github.io/Webtris/)  
+[![Play Demo](https://img.shields.io/badge/Demo-Click_here-brightgreen)](https://murugan47.github.io/Webtris-UnityWebGL/)
 
 Click the button above to try a live WebGL demo of the game in your browser.
 
