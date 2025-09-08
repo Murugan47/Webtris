@@ -14,12 +14,16 @@ This is a Unity project for a **Tetris-style block game**. The framework allows 
 **Settings to control this will be added eventually**
 
 ---
+## Added Features (so far)
+- Piece Hold Functionality
+- Restart Menu System
+
+---
 
 ## Planned / WIP Features
 
 - SRS (Super Rotation System) for advanced rotation mechanics.  
-- Piece Hold functionality.  
-- DAS (Delayed Auto Shift) and soft/hard drop refinements.  
+- DAS (Delayed Auto Shift) and soft/hard drop settings.  
 - Ghost piece visualization.  
 - Additional scoring and level progression systems.  
 
