@@ -9,7 +9,7 @@ This is a Unity project for a **Tetris-style block game**. The framework allows 
 
 **If used please credit my GitHub at [Github.com/Murugan47](https://github.com/murugan47)**
 
-**Controls: ASD & Space (A,D -left&right) (S -soft drop) (Space -hard drop)**
+**Controls: ASD & Space (A,D -left&right) (S -soft drop) (Space -hard drop) (C -Hold)**
 
 **Settings to control this will be added eventually**
 
